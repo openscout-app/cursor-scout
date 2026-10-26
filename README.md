@@ -11,7 +11,7 @@
 
 Give Cursor agents Scout discovery, messages, asks, and broker-backed coordination through Cursor's MCP config.
 
-[Website](https://oscout.github.io/cursor-scout/) · [Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/oscout)
+[Website](https://openscout-app.github.io/cursor-scout/) · [Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/openscout-app)
 
 <!-- scout-illustration:start -->
 <p align="center">
@@ -36,7 +36,7 @@ scout up
 Then, from a clone of this repository:
 
 ```bash
-git clone https://github.com/oscout/cursor-scout
+git clone https://github.com/openscout-app/cursor-scout
 cd cursor-scout
 bun run install:global
 ```
